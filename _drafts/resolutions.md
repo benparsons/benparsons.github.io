@@ -5,8 +5,7 @@ title:  "Resolutions for 2018"
 categories: projects
 ---
 # Post under my own name weekly
-*Reason*: write more
-
+*Reason:* write more  
 This has a risk of producing noise because it's just "something to post", but I feel I often have things to say which I don't share.  here, or Facebook
 
 # 1PPM
@@ -17,7 +16,9 @@ This has a risk of producing noise because it's just "something to post", but I 
 
 # Learn to dance
 # really learn JS
-React, Node, ESlatest, D3, GraphQL
+*Reason:* get some focus  
+It's clear that JavaScript is the medium-term future for me, assuming I were to go back to pure development as a career, but I'm rather out of the loop.  
+*React, Node, ESlatest, D3, GraphQL*, I have some experience but need more.
 
 # redrawism
 * release a new piece every week
