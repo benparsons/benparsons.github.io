@@ -11,7 +11,7 @@ Taken as I was going along.
 * Install Evernote from the App Store
 * Install Chrome by downloading a .dmg from Apple Chrome Downloader (Safari)
 * Install DaisyDisk from the App Store
-* Install ultimate.terminal by my friend Slavo ([https://github.com/slavovojacek/useful/blob/master/themes/ultimate.terminal])
+* Install ultimate.terminal by my friend Slavo (https://github.com/slavovojacek/useful/blob/master/themes/ultimate.terminal)
 * Clear all the junk out of the dock (almost everything) and set it to auto show-hide
 * Set ^control as a mouse gesture to zoom (accessibility)
 * Install Homebrew, which will  also install Xcode Command Line Tools
@@ -23,7 +23,7 @@ Taken as I was going along.
     * And Chrome extension
     * And mini daemon
 * Install Sublime Text
-    * [https://www.sublimetext.com/docs/3/osx_command_line.html]
+    * https://www.sublimetext.com/docs/3/osx_command_line.html
     * (mkdir ~/bin && export PATH=$PATH:~/bin)
 * Install Spotify
     * Login via Facebook
